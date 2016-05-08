@@ -1,0 +1,22 @@
+
+19:21:20.162  Method called - ImportantService.createTransactionalConnection
+19:21:20.243  Method called - ImportantService.createTransactionalConnection
+19:21:20.264  Method called - ImportantService.createTransactionalConnection
+19:21:20.317  Method called - ImportantService.createTransactionalConnection
+19:21:20.326  Method called - ImportantService.createTransactionalConnection
+19:21:20.336  Method called - ImportantService.createTransactionalConnection
+19:21:20.345  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:22:04.022  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:22:04.132  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:22:04.140  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:22:04.148  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:22:04.156  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:22:04.164  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:22:04.173  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:43:15.449  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:43:15.616  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:43:15.626  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:43:15.637  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:43:15.653  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:43:15.669  Method called - ImportantService.createTransactionalConnection
+2016-05-08T19:43:15.683  Method called - ImportantService.createTransactionalConnection
