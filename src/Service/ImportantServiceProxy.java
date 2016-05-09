@@ -1,7 +1,7 @@
 package Service;
 
 import Processor.EnableLogging;
-import Processor.LogItInvocationHandker;
+import Processor.LogItInvocationHandler;
 
 import java.lang.reflect.Proxy;
 
@@ -14,9 +14,9 @@ public class ImportantServiceProxy {
     public static Object getNewProxyObject(Object proxied, Class<?> interfase) {
 
         if (proxied.getClass().isAnnotationPresent(EnableLogging.class)) {
-            Object proxy = Proxy.newProxyInstance(LogItInvocationHandker.class.getClassLoader(),
+            Object proxy = Proxy.newProxyInstance(LogItInvocationHandler.class.getClassLoader(),
                     new Class[]{interfase},
-                    new LogItInvocationHandker(proxied));
+                    new LogItInvocationHandler(proxied));
             return proxy;
         }
         return proxied;

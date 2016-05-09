@@ -8,10 +8,10 @@ import java.lang.reflect.Method;
 /**
  * Created by a_pan on 08.05.2016.
  */
-public class LogItInvocationHandker implements InvocationHandler {
+public class LogItInvocationHandler implements InvocationHandler {
     private Object proxyObject;
 
-    public LogItInvocationHandker(Object proxyObject) {
+    public LogItInvocationHandler(Object proxyObject) {
         this.proxyObject = proxyObject;
     }
 
